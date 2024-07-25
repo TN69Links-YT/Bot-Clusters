@@ -1,20 +1,20 @@
 {   
     "bot1": {
-        "source": "https://github.com/<GitHub Username>/<repo1>.git",
-        "branch": "your-branch-name",
+        "source": "https://github.com/TN69Links-YT/TN69Links-LeechBot.git",
+        "branch": "master",
         "env": {
-            "TOKEN": "",
-            "TOKEN2": ""
+            "TOKEN": "7148784406:AAE9HxyUOKJPQHgpI3O1APm5pIFpkfjCQkU",
+            "TOKEN2": "7148784406:AAE9HxyUOKJPQHgpI3O1APm5pIFpkfjCQkU"
         },
-        "run": ""
+        "run": "update.py"
     },
     "bot2": {
-        "source": "https://github.com/<GitHub Username>/<repo2>.git",
-        "branch": "your-branch-name",
+        "source": "https://github.com/TN69Links-YT/metadata.git",
+        "branch": "main",
         "env": {
-            "TOKEN": ""
+            "TOKEN": "6825651578:AAH_ly9ypifi1EKh82jKCfeUvwQgw-hGhNM"
         },
-        "run": ""
+        "run": "update.py"
     },
     "bot3": {
         "source": "https://<GitHub Username>:<GitHub Token>@github.com/<GitHub Username>/<private-repo>.git",
